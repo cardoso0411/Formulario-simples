@@ -1,2 +1,2 @@
 # Formulario-simples
-Um simples formulário criado no primeiro semestre da faculdade  
+Um simples formulário criado no primeiro semestre da faculdade.
